@@ -13,8 +13,9 @@ This document contains the master list of training courses available for contrib
 | Course ID | Category      | Course Name                     | Provider | Level    | Duration | Type        | Prerequisite | Required For            | Description                                                                 | Link                     |
 | --------- | ------------- | ------------------------------- | -------- | -------- | -------- | ----------- | ------------ | ----------------------- | --------------------------------------------------------------------------- | ------------------------------- |
 | PUB-001   | Documentation           | How to Write a Research Paper? | Udemy                | Beginner    | 2 Hours | Mandatory  |  None  |  All Contributors       |  Learn about how to write a research paper.        | [connect](https://github.com/bit-template/courses/blob/main/catalog/PUB-001.md) |
-| PHY-001   | Programming Language           | Basic Phyton | Hitech/Ganesh                |  Beginner   | 3 Hours | Mandatory  | None   |  All Contributors       |  Learn about basics of python language.        | None |
-
+| PHY-001   | Programming Language           | Basic Phyton | Hitech/Ganesh                |  Beginner   | 3 Hours | Mandatory  | None   |  All Contributors       |  Learn about basics of python language.        | [connect](https://github.com/bit-template/courses/blob/main/catalog/PHY-001.md) |
+| DIG-001   | Digital Electronics           | Evolution of Digital Electronics | Hitech               |  Beginner   | 20 mins | Mandatory  | None   |  All Contributors       |  Evolution of Digital Electronics
+Reverse Engineering a Modern Chip        | [connect](https://github.com/bit-template/courses/blob/main/catalog/DIG-001.md) |
 ---
 
 ## Course Categories
@@ -29,6 +30,8 @@ This document contains the master list of training courses available for contrib
 | Linux         | Linux Operating System            |
 | Programming   | Programming Languages             |
 | Documentation | Technical Writing & Documentation |
+| Digital       | Digital Electronics               |
+
 
 ---
 
