@@ -10,9 +10,10 @@ This document contains the master list of training courses available for contrib
 
 ---
 
-| Course ID | Category      | Course Name                     | Provider | Level    | Duration | Type        | Prerequisite | Required For            | Description                                                                 |
-| --------- | ------------- | ------------------------------- | -------- | -------- | -------- | ----------- | ------------ | ----------------------- | --------------------------------------------------------------------------- |
-| PUB-001   | Documentation           | How to Write a Research Paper? | Masterclass for Beginners                | Udemy    | Beginner | 2 Hours  | Mandatory   | None         | All Contributors        | Learn about how to write a research paper.             |
+| Course ID | Category      | Course Name                     | Provider | Level    | Duration | Type        | Prerequisite | Required For            | Description                                                                 | Link                     |
+| --------- | ------------- | ------------------------------- | -------- | -------- | -------- | ----------- | ------------ | ----------------------- | --------------------------------------------------------------------------- | ------------------------------- |
+| PUB-001   | Documentation           | How to Write a Research Paper? | Udemy                | Beginner    | 2 Hours | Mandatory  |  None  |  All Contributors       |  Learn about how to write a research paper.        | [connect](https://github.com/bit-template/courses/blob/main/catalog/PUB-001.md) |
+| PHY-001   | Programming Language           | Basic Phyton | Hitech/Ganesh                |  Beginner   | 3 Hours | Mandatory  | None   |  All Contributors       |  Learn about basics of python language.        | None |
 
 ---
 
