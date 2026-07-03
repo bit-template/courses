@@ -14,8 +14,8 @@ This document contains the master list of training courses available for contrib
 | --------- | ------------- | ------------------------------- | -------- | -------- | -------- | ----------- | ------------ | ----------------------- | --------------------------------------------------------------------------- | ------------------------------- |
 | PUB-001   | Documentation           | How to Write a Research Paper? | Udemy                | Beginner    | 2 Hours | Mandatory  |  None  |  All Contributors       |  Learn about how to write a research paper.        | [connect](https://github.com/bit-template/courses/blob/main/catalog/PUB-001.md) |
 | PHY-001   | Programming Language           | Basic Phyton | Hitech/Ganesh                |  Beginner   | 3 Hours | Mandatory  | None   |  All Contributors       |  Learn about basics of python language.        | [connect](https://github.com/bit-template/courses/blob/main/catalog/PHY-001.md) |
-| DIG-001   | Digital Electronics           | Evolution of Digital Electronics | Hitech               |  Beginner   | 20 mins | Mandatory  | None   |  All Contributors       |  Evolution of Digital Electronics
-Reverse Engineering a Modern Chip        | [connect](https://github.com/bit-template/courses/blob/main/catalog/DIG-001.md) |
+| DIG-001   | Digital Electronics           | Evolution of Digital Electronics | Hitech               |  Beginner   | 20 mins | Mandatory  | None   |  All Contributors       |  Evolution of Digital Electronics Reverse Engineering a Modern Chip        | [connect](https://github.com/bit-template/courses/blob/main/catalog/DIG-001.md) |
+| AI-001   | Artificial Intelligence           | Evolution of AI | Hitech               |  Beginner   | 20 mins | Mandatory  | None   |  All Contributors       |  Introduction to AI & Evolution of AI from Simple Concepts     | [connect](https://github.com/bit-template/courses/blob/main/catalog/AI-001.md) |
 ---
 
 ## Course Categories
@@ -31,6 +31,7 @@ Reverse Engineering a Modern Chip        | [connect](https://github.com/bit-temp
 | Programming   | Programming Languages             |
 | Documentation | Technical Writing & Documentation |
 | Digital       | Digital Electronics               |
+| AI            | Artificial Intelligence           |
 
 
 ---
