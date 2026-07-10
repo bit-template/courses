@@ -14,7 +14,7 @@ This document contains the master list of training courses available for contrib
 | --------- | ------------- | ------------------------------- | -------- | -------- | -------- | ----------- | ------------ | ----------------------- | --------------------------------------------------------------------------- | ------------------------------- |
 | PUB-001   | Documentation           | How to Write a Research Paper? | Udemy                | Beginner    | 2 Hours | Mandatory  |  None  |  All Contributors       |  Learn about how to write a research paper.        | [connect](https://github.com/bit-template/courses/blob/main/catalog/PUB-001.md) |
 | PHY-001   | Programming Language           | Basic Phyton | Hitech/Ganesh                |  Beginner   | 3 Hours | Mandatory  | None   |  All Contributors       |  Learn about basics of python language.        | None |
-| TECP-001   | Documentation           | Technical Paper Writing | Hitech/Mahasree K I               |  Intermediate   | 1 hour | Mandatory  | None   |  All Contributors       |  Learn about writing a technical paper for standard journals.        | None |
+| TECP-001   | Documentation           | Technical Paper Writing | Hitech/Mahasree K I               |  Intermediate   | 1 hour | Mandatory  | None   |  All Contributors       |  Learn about writing a technical paper for standard journals.        | None | [connect](https://github.com/bit-template/courses/blob/feature/resources/Journal_Publishing_Presentation.pdf) |
 
 ---
 
