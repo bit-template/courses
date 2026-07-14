@@ -1,4 +1,4 @@
-*course-001 - Technical Paper Writing*
+# course-001 - Technical Paper Writing
 
 Category: Documentation
 
