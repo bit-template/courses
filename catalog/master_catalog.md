@@ -10,11 +10,24 @@ This document contains the master list of training courses available for contrib
 
 ---
 
-| Course ID | Category      | Course Name                     | Provider | Level    | Duration | Type        | Prerequisite | Required For            | Description                                                                 | Link                     |
-| --------- | ------------- | ------------------------------- | -------- | -------- | -------- | ----------- | ------------ | ----------------------- | --------------------------------------------------------------------------- | ------------------------------- |
-| PUB-001   | Documentation           | How to Write a Research Paper? | Udemy                | Beginner    | 2 Hours | Mandatory  |  None  |  All Contributors       |  Learn about how to write a research paper.        | [connect](https://github.com/bit-template/courses/blob/main/catalog/PUB-001.md) |
-| PHY-001   | Programming Language           | Basic Phyton | Hitech/Ganesh                |  Beginner   | 3 Hours | Mandatory  | None   |  All Contributors       |  Learn about basics of python language.        | None |
-| TECP-001   | Documentation           | Technical Paper Writing | Hitech/Mahasree K I               |  Intermediate   | 1 hour | Mandatory  | None   |  All Contributors       |  Learn about writing a technical paper for standard journals.       | [connect](https://github.com/bit-template/courses/blob/feature/catalog/TECP-001.md) |
+## Learning Path Purpose
+
+| Learning Path | Purpose |
+|--------------|---------|
+| Foundation | Common knowledge required for all contributors |
+| Software Development | Programming and general software engineering |
+| AI & Machine Learning | AI, ML, data science, and LLM-related courses |
+| Embedded Systems | Microcontrollers, Embedded C, firmware, and hardware |
+| Linux & Systems | Linux, system programming, kernel, and low-level development |
+| DevOps & Infrastructure | CI/CD, Docker, Jenkins, servers, and deployment |
+| Cybersecurity | Security fundamentals and secure development |
+| Robotics & Automation | Robotics, ROS, sensors, navigation, and automation |
+| Web Development | Frontend, backend, APIs, and web applications |
+| Cloud Computing | Cloud platforms and cloud-native technologies |
+| Data Engineering | Databases, data processing, and pipelines |
+| Project & Collaboration | JIRA, Agile, Scrum, GitHub collaboration, and teamwork |
+| Technical Documentation | Documentation, Markdown, design documents, and technical writing |
+| Advanced / Specialized | Advanced or project-specific technologies |
 
 ---
 
