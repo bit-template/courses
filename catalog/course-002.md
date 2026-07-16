@@ -1,4 +1,4 @@
-# course-001 - Basic Phyton
+# course-001 - Basic Python
 
 Category: Documentation
 
