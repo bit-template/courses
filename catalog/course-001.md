@@ -4,7 +4,7 @@ Category: Documentation
 
 Provider: Hitech/Mahasree K.I
 
-Course Link: connect
+Course Link: [connect](https://github.com/bit-template/courses/blob/feature/resources/Journal_Publishing_Presentation.pdf)
 
 Level: Intermediate
 
