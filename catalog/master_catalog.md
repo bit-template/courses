@@ -66,22 +66,6 @@ This document contains the master list of training courses available for contrib
 
 ---
 
-## Naming Convention
-
-```
-<Category>-<Sequence>
-
-Examples:
-
-GIT-001
-PY-001
-LNX-001
-SEC-001
-DOC-001
-```
-
----
-
 ## Adding a New Course
 
 1. Assign a unique Course ID.
