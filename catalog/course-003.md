@@ -1,4 +1,4 @@
-# course-001 - How to Write a Research Paper? | Masterclass for Beginners
+# course-003 - How to Write a Research Paper? | Masterclass for Beginners
 
 Category: Documentation
 
