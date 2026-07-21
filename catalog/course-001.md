@@ -12,6 +12,4 @@ Duration: 1 hour
 
 Prerequisite: None
 
-Learning Paths:
-
-Foundation
+Learning Paths: Foundation
