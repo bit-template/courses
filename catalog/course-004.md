@@ -4,7 +4,7 @@ Category: Documentation
 
 Provider: Hitech/Visu M
 
-Course Link: [Digital-Electronics](https://github.com/bit-template/courses/blob/feature/resources/Journal_Publishing_Presentation.pdf)
+Course Link: [Digital-Electronics](https://github.com/bit-template/courses/blob/Digital-Electronics/resources/Digital_Electronics.pdf)
 
 Level: Beginner
 
