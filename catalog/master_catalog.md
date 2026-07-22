@@ -15,7 +15,7 @@ This document contains the master list of training courses available for contrib
 | course-001   | Documentation           | Technical Paper Writing | HiTech/Mahasree K.I                | Intermediate    | 1 Hour | Mandatory  |  None  |  All Contributors       |  Learn about how to write a technical research paper and approach a standard journal.        | [connect](https://github.com/bit-template/courses/blob/feature/catalog/course-001.md) |
 | course-002   | Programming Language           | Basic Python | Hitech/Ganesh                |  Beginner   | 3 Hours | Mandatory  | None   |  All Contributors       |  Learn about basics of python language.        | [connect](https://github.com/bit-template/courses/blob/feature/catalog/course-002.md) |
 | course-003   | Documentation           | How to Write a Research Paper? | Udemy                | Beginner    | 2 Hours | Mandatory  |  None  |  All Contributors       |  Learn about how to write a research paper.        | [connect](https://github.com/bit-template/courses/blob/feature/catalog/course-003.md) |
-| course-004   | Documentation           | Basic Digital Electronics | Hitech/Visu M              | Beginner    | 20 mins | Mandatory  |  None  |  All Contributors       |  Learn about Basic Digital Electronics        | [connect](https://github.com/bit-template/courses/blob/Digital-Electronics/catalog/course-004.md) |
+| course-004   | chip design           | Basic Digital Electronics | Hitech/Visu M              | Beginner    | 20 mins | Mandatory  |  None  |  All Contributors       |  Learn about Basic Digital Electronics        | [connect](https://github.com/bit-template/courses/blob/Digital-Electronics/catalog/course-004.md) |
 
 ---
 
@@ -52,6 +52,7 @@ This document contains the master list of training courses available for contrib
 | Linux         | Linux Operating System            |
 | Programming   | Programming Languages             |
 | Documentation | Technical Writing & Documentation |
+| chip design   | Basic Digital Electronics         |
 
 ---
 

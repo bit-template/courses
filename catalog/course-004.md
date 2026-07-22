@@ -1,6 +1,6 @@
 # course-004 - Digital Electronics
 
-Category: Documentation
+Category: chip design
 
 Provider: Hitech/Visu M
 
