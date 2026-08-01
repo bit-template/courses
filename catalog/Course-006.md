@@ -4,7 +4,7 @@ Category: Documentation
 Provider: Udemy
 
 Course Link:
-Instructor Lead
+https://www.udemy.com/course/data-science-in-python-data-prep-eda/
 
 Level:
 Beginner
