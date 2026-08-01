@@ -5,7 +5,7 @@ Category: Documentation
 Provider: Udemy
 
 Course Link:
-Instructor Lead
+ https://www.udemy.com/course/how-to-write-a-research-paper-masterclass-for-beginners/
 
 Level:
 Beginner
