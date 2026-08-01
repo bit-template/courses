@@ -5,7 +5,7 @@ Category: Documentation
 Provider: Udemy
 
 Course Link:
-Instructor Lead
+ https://www.udemy.com/course/mastering-data-collection-methods-and-tools-to-collect-data/
 
 Level:
 Beginner

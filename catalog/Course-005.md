@@ -5,7 +5,7 @@ Category: Documentation
 Provider: Udemy
 
 Course Link:
-Instructor Lead
+ https://www.udemy.com/course/ml-made-easy-a-2point5-hour-crash-course-with-weka/
 
 Level:
 Beginner
