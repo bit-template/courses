@@ -5,7 +5,7 @@ Category: Documentation
 Provider: Udemy
 
 Course Link:
- https://www.udemy.com/course/how-to-write-a-research-paper-masterclass-for-beginners/
+ https://www.udemy.com/course/mastering-data-collection-methods-and-tools-to-collect-data/
 
 Level:
 Beginner
