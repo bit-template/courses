@@ -7,6 +7,10 @@ Provider: Udemy
 Course Link:
  https://www.udemy.com/course/mastering-data-collection-methods-and-tools-to-collect-data/
 
+Course ID: bitdatacollection2006@gmail.com
+
+Course Password: Contact admin
+
 Level:
 Beginner
 
