@@ -15,7 +15,11 @@ This document contains the master list of training courses available for contrib
 | course-001   | Documentation           | Technical Paper Writing | HiTech/Mahasree K.I                | Intermediate    | 1 Hour | Mandatory  |  None  |  All Contributors       |  Learn about how to write a technical research paper and approach a standard journal.        | [connect](https://github.com/bit-template/courses/blob/feature/catalog/course-001.md) |
 | course-002   | Programming Language           | Basic Python | Hitech/Ganesh                |  Beginner   | 3 Hours | Mandatory  | None   |  All Contributors       |  Learn about basics of python language.        | [connect](https://github.com/bit-template/courses/blob/feature/catalog/course-002.md) |
 | course-003   | Documentation           | How to Write a Research Paper? | Udemy                | Beginner    | 2 Hours | Mandatory  |  None  |  All Contributors       |  Learn about how to write a research paper.        | [connect](https://github.com/bit-template/courses/blob/feature/catalog/course-003.md) |
-| course-004   | Documentation           | Basic Digital Electronics | Hitech/Visu M              | Beginner    | 20 mins | Mandatory  |  None  |  All Contributors       |  Learn about Basic Digital Electronics        | [connect](https://github.com/bit-template/courses/blob/Digital-Electronics/catalog/course-004.md) |
+| course-004   | Documentation               |  Mastering Data Collection: Methods and Tools to Collect Data   | Udemy | Beginner | 1 Hours | Mandatory  |  None  |  All Contributors       |  Learn about Data collection and Tools.  | [connect](https://github.com/bit-template/courses/blob/feature/catalog/course-004.md) |
+| course-005   | Documentation      |Machine Learning     | Udemy        |  Beginner   | 4.5 Hours | Mandatory  | None   |  All Contributors       |  Learn about basics of machine learning techniques.              | [connect](https://github.com/bit-template/courses/blob/feature/catalog/course-005.md) |
+| course-006   | Documentation|Python Data Science: Data Prep & EDA with Python | Udemy | Beginner    | 8.5 Hours | Mandatory  |  None  |  All Contributors       |  Learn about python data science and data preprocessing.       | [connect](https://github.com/bit-template/courses/blob/feature/catalog/course-006.md) |
+| course-007   | chip design           | Basic Digital Electronics | Hitech/Visu M              | Beginner    | 20 mins | Mandatory  |  None  |  All Contributors       |  Learn about Basic Digital Electronics        | [connect](https://github.com/bit-template/courses/blob/Digital-Electronics/catalog/course-007.md) |
+| course-008   | Documentation           | Evolution of AI | Hitech              | Beginner    | 30 mins | Mandatory  |  None  |  All Contributors       |  Learn about Artificial intelligence (AI)        | [connect](https://github.com/bit-template/courses/blob/Digital-Electronics/catalog/course-008.md) |
 
 ---
 
@@ -52,6 +56,7 @@ This document contains the master list of training courses available for contrib
 | Linux         | Linux Operating System            |
 | Programming   | Programming Languages             |
 | Documentation | Technical Writing & Documentation |
+| chip design   | Basic Digital Electronics         |
 
 ---
 

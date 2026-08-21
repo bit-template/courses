@@ -1,16 +1,24 @@
-# course-004 - Digital Electronics
+# course-004 - Mastering Data Collection: Methods and Tools to Collect Data 
 
 Category: Documentation
 
-Provider: Hitech/Visu M
+Provider: Udemy
 
-Course Link: [Digital-Electronics](https://github.com/bit-template/courses/blob/Digital-Electronics/resources/Digital_Electronics.pdf)
+Course Link:
+ https://www.udemy.com/course/mastering-data-collection-methods-and-tools-to-collect-data/
 
-Level: Beginner
+Course ID: bitdatacollection2006@gmail.com
 
-Duration: 20 mins
+Course Password: Contact admin
 
-Prerequisite: None
+Level:
+Beginner
 
-Learning Paths: 
+Duration:
+1 Hour
+
+Prerequisite:
+None
+
+Learning Paths:
 - Foundation

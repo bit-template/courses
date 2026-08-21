@@ -1,0 +1,20 @@
+# course-008 - Evolution of AI
+
+Category: Artificial Intelligence
+
+Provider: Hitech
+
+Course Link:
+[Instructor Lead](https://github.com/bit-template/courses/blob/main/resources/AI_Evolution_Presentation.pdf)
+
+Level:
+Beginner
+
+Duration:
+30 mins
+
+Prerequisite:
+None
+
+Learning Paths:
+- Foundation
