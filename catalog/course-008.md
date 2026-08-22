@@ -3,8 +3,7 @@
 Category: Documentation
 
 Provider: ohns Hopkins Medicine via YouTube
-Course Link:
-[https://www.udemy.com/...](https://www.classcentral.com/classroom/youtube-knee-osteoarthritis-using-biology-to-optimize-exercise-365126)
+Course Link:(https://www.classcentral.com/classroom/youtube-knee-osteoarthritis-using-biology-to-optimize-exercise-365126)
 
 Level:
 Beginner
