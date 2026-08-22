@@ -19,6 +19,8 @@ This document contains the master list of training courses available for contrib
 | course-005   | Documentation      |Machine Learning     | Udemy        |  Beginner   | 4.5 Hours | Mandatory  | None   |  All Contributors       |  Learn about basics of machine learning techniques.              | [connect](https://github.com/bit-template/courses/blob/feature/catalog/course-005.md) |
 | course-006   | Documentation|Python Data Science: Data Prep & EDA with Python | Udemy | Beginner    | 8.5 Hours | Mandatory  |  None  |  All Contributors       |  Learn about python data science and data preprocessing.       | [connect](https://github.com/bit-template/courses/blob/feature/catalog/course-006.md) |
 | course-007   | chip design           | Basic Digital Electronics | Hitech/Visu M              | Beginner    | 20 mins | Mandatory  |  None  |  All Contributors       |  Learn about Basic Digital Electronics        | [connect](https://github.com/bit-template/courses/blob/Digital-Electronics/catalog/course-004.md) |
+course-008   |Documentation          | Basic Knee Structure-Knee Osteoarthritis | Johns Hopkins Medicine via Youtube        | Beginner    |1 Hour | Mandatory  |  None  |  All Contributors       |  Learn about Basic Knee Structure and its functions      | [connect](https://github.com/bit-template/courses/blob/feature/catalog/course-008.md) |
+
 
 ---
 
