@@ -6,6 +6,10 @@ Provider: Udemy
 Course Link:
 https://www.udemy.com/course/data-science-in-python-data-prep-eda/
 
+Course ID: bitdatacollection2006@gmail.com
+
+Course Password: Contact admin
+
 Level:
 Beginner
 
